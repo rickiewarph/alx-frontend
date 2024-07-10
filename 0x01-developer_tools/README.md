@@ -8,3 +8,13 @@ How to block requests
 How to know how much JavaScript or CSS is used on a page
 How to detect 404 issues
 How to move elements on a webpage
+
+# Responsive Device Screenshot
+
+## Task: Responsive Device
+Go to [Dev Tools](https://dev-tools.alx-tools.com/)
+
+Take a screenshot of the website using the device toolbar. Choose iPhone X and show the size in your screenshot (selected device or size in pixel of the rendering).
+
+## Screenshot
+![Responsive Device](0-responsive_device.png)
